@@ -38,11 +38,66 @@ teach users about website development as a part of this website.
 
 - Test-one, does the website load as expected?
   
+  This test will be carried out on the google chrome browser, and should have no issues.
+  
+  Issue:
+  
+  Resolution:
+  
 - Test-two, Does the website load as expected on several different browsers?
+  
+  This test will be carried out on browsers such as fire fox, microsoft edge, opera, etc
+  
+  Issue 1:
+  
+  Issue 2:
+  
+  Issue 3:
+  
+  Resolution 1:
+  
+  Resolution 2:
+  
+  Resolution 3:
+  
+  
 - Test-three, do the navbar links operate correctly?
+  
+  This test will be carried out by clicking each navbar link one by one and noting down if the link redirects the user to the correct webpage.
+  
+  Issue:
+  
+  Resolution:
+  
 - Test-Four, Do all of the Course links redirect the user correctly?
+  
+  This test will be carried out by clicking each of the course links on the coures page and seeing if the user is redirected to the correct course website.
+
+  Issue:
+
+  Resolution:
+
+  
 - Test-five, Does the application form function correctly?
+
+  The application form will be filed out and the folder it is linked to will be checked to ensure the application data is stored.
+
+  Issue:
+
+  Resolution:
+
+  
 - Test-Six, Is the website formatted correctly on different devices? I.E phone, pc, tablet, etc
+
+  The website will be opened on differetn devices to endure it is formatted in a legible way.
+
+  Issue 1:
+
+  Issue 2:
+
+  Resolution 1:
+
+  Resolution 2:
   
 
 ## User-Requirements
