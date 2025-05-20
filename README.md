@@ -14,6 +14,12 @@
 
 ## Introduction 
 
+This project is focused on the creation of a website for a company called hot beans web, 
+the company focuses on website development and I have been tasked with creating a website
+that introuduces some members of staff and gives users an opportunity to apply to work at the company.
+Furthermore I have also been tasked with providing information and links to courses that can
+teach users about website development as a part of this website.
+
 ## Project-Managemnet
 
 ## Wireframes
