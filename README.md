@@ -37,7 +37,11 @@ teach users about website development as a part of this website.
 ## Test-plan
 
 ## User-Requirements
-
+These are all thing a user would expect to have access to, and should be included in the design of the website.
+- An application form to be filled out to apply to work at the company.
+- An overview of the company and brief introductions of it's employees.
+- Links to couses related to website development.
+- Access to the websites privacy information
 ## Evaluation
 
 ## Page-Designs
