@@ -17,10 +17,14 @@
 ## Project-Managemnet
 
 ## Wireframes
-[home page/about us page]![image](https://github.com/user-attachments/assets/3668579f-5704-463b-b18c-f392be616f86)
-[Application page]![image](https://github.com/user-attachments/assets/d2e79438-4021-4bb3-9315-e890db486af5)
-[courses page]![image](https://github.com/user-attachments/assets/052f2020-b2cb-4db5-a244-879809848989)
-[contact and privacy information page]![image](https://github.com/user-attachments/assets/27d9f1f0-eab2-40d0-b374-59a001b23d75)
+![image](https://github.com/user-attachments/assets/21c6fdd4-a8d4-4157-83d0-731a242b3758)
+
+![image](https://github.com/user-attachments/assets/dd5f1544-9a65-4582-b8dd-5273ae7951f3)
+
+![image](https://github.com/user-attachments/assets/d7ba524d-89de-4e19-9e5f-21019a4299e0)
+
+![image](https://github.com/user-attachments/assets/a35ea5ed-625c-42e1-a8e7-044575c6d4a3)
+
 
 ## Test-plan
 
