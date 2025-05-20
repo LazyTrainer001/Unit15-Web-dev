@@ -36,6 +36,15 @@ teach users about website development as a part of this website.
 
 ## Test-plan
 
+- Test-one, does the website load as expected?
+  
+- Test-two, Does the website load as expected on several different browsers?
+- Test-three, do the navbar links operate correctly?
+- Test-Four, Do all of the Course links redirect the user correctly?
+- Test-five, Does the application form function correctly?
+- Test-Six, Is the website formatted correctly on different devices? I.E phone, pc, tablet, etc
+  
+
 ## User-Requirements
 These are all thing a user would expect to have access to, and should be included in the design of the website.
 - An application form to be filled out to apply to work at the company.
