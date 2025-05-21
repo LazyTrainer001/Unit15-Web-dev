@@ -21,7 +21,7 @@ Furthermore I have also been tasked with providing information and links to cour
 teach users about website development as a part of this website.
 
 ## Project-Managemnet
-I intend to have the README file completed by the 21st of may 2025, and the website itself completed on the 24th of may 2025, leaving myself with enough time to carry out tests and optimise the website.
+I intend to have the README file completed by the 21st of may 2025, and the website itself completed on the 23rd of may 2025, early in the afternoon, leaving myself with enough time to carry out tests and optimise the website.
 ## Wireframes
 ![image](https://github.com/user-attachments/assets/21c6fdd4-a8d4-4157-83d0-731a242b3758)
 
