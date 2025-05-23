@@ -40,7 +40,7 @@ I intend to have the README file completed by the 21st of may 2025, and the webs
   
   This test will be carried out on the google chrome browser, and should have no issues.
   
-  Issue:
+  Issue: no issue, loads as expected.
   
   Resolution:
   
@@ -48,11 +48,11 @@ I intend to have the README file completed by the 21st of may 2025, and the webs
   
   This test will be carried out on browsers such as fire fox, microsoft edge, opera, etc
   
-  Issue 1:
+  Issue 1:Tested on Opera, no issue.
   
-  Issue 2:
+  Issue 2:Tested on microsoft edge, no issue.
   
-  Issue 3:
+  Issue 3: Tested on chrome, no issue.
   
   Resolution 1:
   
@@ -65,7 +65,7 @@ I intend to have the README file completed by the 21st of may 2025, and the webs
   
   This test will be carried out by clicking each navbar link one by one and noting down if the link redirects the user to the correct webpage.
   
-  Issue:
+  Issue: Navbar links operate correctly, no issue.
   
   Resolution:
   
@@ -73,27 +73,27 @@ I intend to have the README file completed by the 21st of may 2025, and the webs
   
   This test will be carried out by clicking each of the course links on the coures page and seeing if the user is redirected to the correct course website.
 
-  Issue:
+  Issue: Links are not clickable.
 
-  Resolution:
+  Resolution: Added text to instruct the user to copy and paste the links into their search bar.
 
   
 - Test-five, Does the application form function correctly?
 
   The application form will be filed out and the folder it is linked to will be checked to ensure the application data is stored.
 
-  Issue:
+  Issue: The folder does not store the information, because it does not exist.
 
-  Resolution:
+  Resolution: Adding the folder will resolve this issue.
 
   
 - Test-Six, Is the website formatted correctly on different devices? I.E phone, pc, tablet, etc
 
-  The website will be opened on differetn devices to endure it is formatted in a legible way.
+  The website will be opened on different devices to endure it is formatted in a legible way.
 
-  Issue 1:
+  Issue 1: Everything is legible on PC
 
-  Issue 2:
+  Issue 2: Eveything is legible on tablet
 
   Resolution 1:
 
@@ -111,10 +111,8 @@ My website meets the clients requirements, it features a home page with informat
 It Also features a page with links to different website development courses, and a page dedicated to the companies contact information, alongside it's privacy information.
 The fianl requirement that my website meets is the job application page. There are several issues with my website however, first of all the design of my websight is very simple
 featuring very little in terms of interesting design, the images are all static, the navbar is simple and the text is all the same font and mostly the same font size.
-Another issue with my website is a lack of interesting visuals and interactive displays, this may lead to a lack of user retention, and isn't good for Usability. 
-
-
-
+Another issue with my website is a lack of interesting visuals and interactive displays, this may lead to a lack of user retention, and isn't good for Usability. The Website launched by Github has had an error that did not occur 
+when using visual studio code to test the website, the images are not loading correctly or being aligned correctly.
 
 
 ## Page-Designs
