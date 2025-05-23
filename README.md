@@ -112,7 +112,7 @@ It Also features a page with links to different website development courses, and
 The fianl requirement that my website meets is the job application page. There are several issues with my website however, first of all the design of my websight is very simple
 featuring very little in terms of interesting design, the images are all static, the navbar is simple and the text is all the same font and mostly the same font size.
 Another issue with my website is a lack of interesting visuals and interactive displays, this may lead to a lack of user retention, and isn't good for Usability. The Website launched by Github has had an error that did not occur 
-when using visual studio code to test the website, the images are not loading correctly or being aligned correctly.
+when using visual studio code to test the website, the images are not being aligned correctly.
 
 
 ## Page-Designs
