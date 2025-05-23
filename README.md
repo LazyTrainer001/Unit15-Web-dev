@@ -101,12 +101,21 @@ I intend to have the README file completed by the 21st of may 2025, and the webs
   
 
 ## User-Requirements
-These are all thing a user would expect to have access to, and should be included in the design of the website.
+These are all things a user would expect to have access to, and should be included in the design of the website.
 - An application form to be filled out to apply to work at the company.
 - An overview of the company and brief introductions of it's employees.
 - Links to couses related to website development.
 - Access to the websites privacy information
 ## Evaluation
+My website meets the clients requirements, it features a home page with information about the company, and the companies workers.
+It Also features a page with links to different website development courses, and a page dedicated to the companies contact information, alongside it's privacy information.
+The fianl requirement that my website meets is the job application page. There are several issues with my website however, first of all the design of my websight is very simple
+featuring very little in terms of interesting design, the images are all static, the navbar is simple and the text is all the same font and mostly the same font size.
+Another issue with my website is a lack of interesting visuals and interactive displays, this may lead to a lack of user retention, and isn't good for Usability. 
+
+
+
+
 
 ## Page-Designs
 
