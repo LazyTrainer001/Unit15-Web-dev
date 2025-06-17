@@ -83,9 +83,9 @@ I intend to have the README file completed by the 21st of may 2025, and the webs
   The application form will be filed out and the folder it is linked to will be checked to ensure the application data is stored.
 
   Issue: The folder does not store the information, because it does not exist.
-
+  Issue: Submitting the application form leads to a page not found error.
   Resolution: Adding the folder will resolve this issue.
-
+  Resolution: Creating a page that features the navbar links and having the submit button take the user to that page, alongside storing the application information, to allow the user to return to the other webpages and submit their application.
   
 - Test-Six, Is the website formatted correctly on different devices? I.E phone, pc, tablet, etc
 
