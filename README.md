@@ -124,7 +124,12 @@ when using visual studio code to test the website, the images are not being alig
 ![image](https://github.com/user-attachments/assets/da81c5b7-17dc-433e-893d-4dee65a3d62d)
 
 
-## Feedback
-
+# Feedback
+## feedback from peer one
 ![image](https://github.com/user-attachments/assets/14e8ecd2-2497-4832-ad57-9fb53eb9ed13)
+## feedback from peer two
+![image](https://github.com/user-attachments/assets/a94d0ba5-1c76-449c-9cc2-eb2771d49145)
+## feedback from peer three
+![image](https://github.com/user-attachments/assets/e67a6b92-4b23-4371-91f7-e945a909f868)
+
 
